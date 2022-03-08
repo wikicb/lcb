@@ -8,7 +8,7 @@ title: "Dernière personnes équipées"
 ## A faire: 
 080322 [ViniciusKruger](notes/utilisateurs/beneficiaires/ViniciusKruger.md)
 
-070322 [[loickSubilia]]
+070322 [[notes/utilisateurs/loickSubilia]]
 
 280222 7h30 [stephaneEsposito](notes/utilisateurs/beneficiaires/stephaneEsposito.md) pas venu car est en tractation.
 

@@ -7,14 +7,6 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
-lundi 
-070322 14h30 dépoussiérage [Ferme13](notes/zones/Ferme13.md)
-
-mardi 
-080322 7h30 [ViniciusKruger](notes/utilisateurs/beneficiaires/ViniciusKruger.md)
-
-080322 10h caroline
-
 mercredi 
 090322 vitre et coups de balais IEPA Grand-Lancy
 
@@ -25,6 +17,8 @@ jeudi
 
 vendredi 
 110322 Remplacement [maximeChiavaroli](notes/utilisateurs/beneficiaires/maximeChiavaroli.md)
+
+110322 14h30 dépoussiérage [Ferme13](notes/zones/Ferme13.md)
 
 110322  [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
 

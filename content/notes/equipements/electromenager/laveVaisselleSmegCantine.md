@@ -33,4 +33,4 @@ Pour lire le [manuel](https://drive.google.com/file/d/1Je_wGZVlBH8JlBZxbfICmbHcC
 
 250122 mis du sel fin dans la machine le voyant est tout de suite parti.
 
-[[fs_laveVaisselle]]
+[[notes/ficheSuivi/fs_laveVaisselle]]
