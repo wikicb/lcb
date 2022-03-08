@@ -10,7 +10,7 @@ title: "{{title}}"
 
 <div align="right">
 
-| Année |...........|Mois|......................|![qr_Sanitaires](notes/pieces_jointes/images/i_codeBarres/i_codeQR/Qr_Sanitaires.jpg)|
+| Année |...........|Mois|......................|![qr_Sanitaires](notes/images/i_codeBarres/i_codeQR/Qr_Sanitaires.jpg)|
 |---|---|---|---|---|
 
 </div>

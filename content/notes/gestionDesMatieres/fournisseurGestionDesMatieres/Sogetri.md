@@ -7,10 +7,10 @@ title: "Sogetri"
 ## Infos:
 ### Reçus, bons, quittances:
 Lorsque vous avez vidé le camion vous recevez une quittance.
-![i_bonSogetri1](/notes/pieces_jointes/images/i_gestionMatieres/i_bonQuittance/i_bonSogetri1.jpg)
+![i_bonSogetri1](notes/images/i_gestionMatieres/i_bonQuittance/i_bonSogetri1.jpg)
 Utiliser le [carnet kilomètres du vehicule](/notes/equipements/carnetkilometresvehiculed.md) et son stylo. (1) verifier que le type de déchet correspond à ce que vous avez vidés. Puis signez (2).\
 Une fois au [quai](notes/zones/QuaiRuche.md) déposer le reçu dans la pelle sous les clés des véhicules.
-![I_Sogetri1](/notes/pieces_jointes/images/i_gestionMatieres/i_sogtri/I_Sogetri1.jpg)
+![I_Sogetri1](notes/images/i_gestionMatieres/i_sogtri/I_Sogetri1.jpg)
 
 
 ## Afaire

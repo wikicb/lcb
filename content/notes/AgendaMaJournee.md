@@ -1,21 +1,11 @@
 ---
 title: "Agenda"
 ---
+
 En vert les jours d'interventions idéal, en orange, les jours discutables et en rouge les journées pas possibles:
+![Agenda](/notes/images/i-planning.jpg)
 
-![Agenda](/notes/pieces_jointes/images/planning.jpg)
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
-
-vendredi 
-040322 9h Caroline pour potager
-
-040322  [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
-
-samedi 
-050322
-
-dimanche 
-060322
 
 lundi 
 070322 14h30 dépoussiérage [Ferme13](notes/zones/Ferme13.md)
@@ -23,7 +13,7 @@ lundi
 mardi 
 080322 7h30 [ViniciusKruger](notes/utilisateurs/beneficiaires/ViniciusKruger.md)
 
-080322 
+080322 10h caroline
 
 mercredi 
 090322 vitre et coups de balais IEPA Grand-Lancy
@@ -35,6 +25,8 @@ jeudi
 
 vendredi 
 110322 Remplacement [maximeChiavaroli](notes/utilisateurs/beneficiaires/maximeChiavaroli.md)
+
+110322  [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
 
 110322 Débarras de la villa
 
@@ -68,7 +60,7 @@ dimanche
 200322
 
 lundi 
-210322
+210322 0224209111 chemin des communaux 40 1233 Bernex composte sig 
 
 mardi 
 220322
@@ -508,5 +500,4 @@ samedi
 dimanche 
 0822
 
-
-120922 au 250922
+120922 au 250922 vac

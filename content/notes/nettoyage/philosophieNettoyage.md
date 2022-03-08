@@ -14,4 +14,4 @@ title: "Philosophie du Nettoyage"
 ## Cercle de Sinner
 Action chimique, action mécanique, temps de contact et la température sont les 4 facteurs à prendre en considération pour faire un travail de qualité
 
-![cercle de Sinner](/notes/pieces_jointes/images/i_nettoyage/I_CercleSinner.jpg)
+![cercle de Sinner](notes/images/i_nettoyage/I_CercleSinner.jpg)

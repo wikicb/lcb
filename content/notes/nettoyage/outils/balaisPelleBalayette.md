@@ -4,7 +4,7 @@ title: "Balais, pelle et balayette"
 
 # Ruche
 ## Brocante
-![I_Cantine7-8](notes/pieces_jointes/images/i_nettoyage/i_cantine/I_Cantine7-8.jpg)
+![I_Cantine7-8](notes/images/i_nettoyage/i_cantine/I_Cantine7-8.jpg)
 ## Buanderie et économat
 ## Textile
 
