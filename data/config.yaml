@@ -1,10 +1,10 @@
 name: Denis Weidmann
 enableToc: true
-enableLinkPreview: true
+enableLinkPreview: false
 description:
   Bienvenue dans cet espace de partage.
 page_title:
   "🧠 Wiki CB"
 links:
   - link_name: Github
-    link: https://denisdavidrichard.github.io/brain/
+    link: https://wikicb.github.io/lcb/
