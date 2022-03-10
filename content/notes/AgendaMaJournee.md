@@ -7,9 +7,6 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
-mercredi 
-090322 vitre et coups de balais IEPA Grand-Lancy
-
 jeudi 
 100322 Remplacement [maximeChiavaroli](notes/utilisateurs/beneficiaires/maximeChiavaroli.md)
 
@@ -54,7 +51,7 @@ dimanche
 200322
 
 lundi 
-210322 0224209111 chemin des communaux 40 1233 Bernex composte sig 
+210322 0224209111 chemin des communaux 40 1233 Bernex composte sig plus 100kg [D_AteliersLignon](notes/departements/D_AteliersLignon.md)
 
 mardi 
 220322
@@ -81,7 +78,7 @@ mardi
 290322
 
 mercredi 
-300322
+300322 19h association agex cycle du renard, chemin des Lézard 24, 1219 Aïre
 
 jeudi 
 310322

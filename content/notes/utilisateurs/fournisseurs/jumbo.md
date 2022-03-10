@@ -9,6 +9,8 @@ title: "jumbo"
 ## A faire:  [[C_SangleACliquet]] x8 [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
+090322 10x [C_HousseMatelas](notes/equipements/consommables/C_HousseMatelas.md)
+
 250122 Support balais et 2 crochets
 
 071221 [C_AmpouleH1](notes/equipements/consommables/C_AmpouleH1.md) 2x [C_AmpouleH4](notes/equipements/consommables/C_AmpouleH4.md) 2x [C_AmpouleH7](notes/equipements/consommables/C_AmpouleH7.md)
