@@ -12,7 +12,7 @@
 
 [[notes/zones/PromenadeTrousseauRuche]]
 
-[[notes/zones/DechetsSpeciauxRuche]]
+[DechetsIndustrielsOrdinaireSpeciauxSIG](notes/gestionDesMatieres/DechetsIndustrielsOrdinaireSpeciauxSIG.md)
 
 [[notes/zones/EconomatRuche]]
 

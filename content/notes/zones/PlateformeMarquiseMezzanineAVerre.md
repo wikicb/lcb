@@ -3,7 +3,7 @@ title: "Plateforme, Marquise, Mezzanine à verre"
 ---
 
 ## Infos:
-![i-PlateformeMarquiseMezzanineAVerre](notes/images/i_PlateformeMarquiseMezzanineAVerre/i-PlateformeMarquiseMezzanineAVerre.jpg)
+![i-PlateformeMarquiseMezzanineAVerre](/notes/images/i_PlateformeMarquiseMezzanineAVerre/i-PlateformeMarquiseMezzanineAVerre.jpg)
 
 ## Historique:
 [Zones](notes/zones/Zones.md) 

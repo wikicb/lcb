@@ -8,7 +8,7 @@ title: "En lien avec l'intendance et service technique"
 ## A faire: 
 
 ## Historique:
-141221 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) [DechetsSpeciauxRuche](notes/zones/DechetsSpeciauxRuche.md) [AbriPauseRuche](notes/zones/AbriPauseRuche.md) [PlateformeMarquiseMezzanineAVerre](notes/zones/PlateformeMarquiseMezzanineAVerre.md) [SASHalleJuliette](notes/zones/SASHalleJuliette.md)
+141221 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) [DechetsIndustrielsOrdinaireSpeciauxSIG](notes/gestionDesMatieres/DechetsIndustrielsOrdinaireSpeciauxSIG.md) [AbriPauseRuche](notes/zones/AbriPauseRuche.md) [PlateformeMarquiseMezzanineAVerre](notes/zones/PlateformeMarquiseMezzanineAVerre.md) [SASHalleJuliette](notes/zones/SASHalleJuliette.md)
 
 131221 [D_IntendanceTechnique](notes/departements/D_IntendanceTechnique.md) [SASHalleJuliette](notes/zones/SASHalleJuliette.md) 
 

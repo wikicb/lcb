@@ -7,31 +7,13 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
-jeudi 
-100322 Remplacement [maximeChiavaroli](notes/utilisateurs/beneficiaires/maximeChiavaroli.md)
-
-100322 Déménagement Bellevue de rez à rez prendre 2 déménageuses pour déménagement et garde meubles
-
-vendredi 
-110322 Remplacement [maximeChiavaroli](notes/utilisateurs/beneficiaires/maximeChiavaroli.md)
-
-110322 14h30 dépoussiérage [Ferme13](notes/zones/Ferme13.md)
-
-110322  [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
-
-110322 Débarras de la villa
-
-samedi 
-120322
-
-dimanche 
-130322
-
 lundi 
 140322 8h débarras regarder au GD EM et NN
 
 mardi 
-150322
+150322 livraison avec Vinicius 
+
+150322 14h30 dépoussiérage [Ferme13](notes/zones/Ferme13.md)
 
 mercredi 
 160322
@@ -43,6 +25,8 @@ vendredi
 180322 13h15 visite [Sirion](notes/equipements/vehicules/Sirion.md) piste 2
 
 180322 15h visite ruche puis bilan [ViniciusKruger](notes/utilisateurs/beneficiaires/ViniciusKruger.md)
+
+110322  [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
 
 samedi 
 190322 13h13 Cathy Pierre à la maison 
@@ -63,7 +47,7 @@ jeudi
 240322
 
 vendredi 
-250322
+250322 
 
 samedi 
 260322
