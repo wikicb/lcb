@@ -2,7 +2,8 @@
 title: "V334_chaussures_securité_montantes_43"
 ---
 
-[L_Vetements](notes/equipements/L_Vetements.md) [V_ChaussuresDeSecurite](notes/equipements/vetements/V_ChaussuresDeSecurite.md) 190122 [etienneMagneat](notes/utilisateurs/beneficiaires/etienneMagneat.md) pour [Bugnons14_12e](Bugnons14_12e)
+[L_Vetements](notes/equipements/L_Vetements.md) [V_ChaussuresDeSecurite](notes/equipements/vetements/V_ChaussuresDeSecurite.md) [S_Libre](notes/statut/S_Libre.md)\
+190122 etienneMagneat\
 151121 erosAparco\
 011021 claudioChiavaroli\
 191021 muhamedAbdi\

@@ -6,12 +6,15 @@ title: "Landi"
 ## Infos:
 
 ## A faire: [[C_GiletSignalisationJaune]] x3 [[notes/equipements/consommables/C_SeauTonneauUnivCouv70]] x4 perso [[C_filtreBrita]]
+5x sac30L
+
+
+## Historique:
 10x [C_Sac110L](notes/equipements/consommables/C_Sac110L.md)
 1x [C_MelangeGrainesPoulesPondeuses](notes/equipements/consommables/C_MelangeGrainesPoulesPondeuses.md)
 3x [C_PapierWC](notes/equipements/consommables/C_PapierWC.md)
 2x [C_PapierMenage](notes/equipements/consommables/C_PapierMenage.md)
 
-## Historique:
 170122 [[C_Sac110L]] x10
 
 170122 [[C_PharmacieVéhicule]]

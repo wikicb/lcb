@@ -22,6 +22,8 @@ ExpertisesVisitesOCV: 300416 301012
 ## Afaire:
 
 ## Historique:
+110322 [garageAnken](notes/equipements/vehicules/garageAnken.md) parchoque av et ar refixés; ailes av refaites; disques freins av changés et embrayage ausse; manchette cardan sale, nettoyée.
+
 180521 [EV_AjoutLiquide](notes/equipements/vehicules/EV_AjoutLiquide.md) ajout lave glace
 
 050820 [EV_Plaques](notes/equipements/vehicules/EV_Plaques.md) fixée 050820 [EV_Peintures](notes/equipements/vehicules/EV_Peintures.md) enlevée côté conducteur c'est tout remis

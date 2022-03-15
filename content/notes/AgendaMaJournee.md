@@ -7,21 +7,17 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
-lundi 
-140322 8h débarras regarder au GD EM et NN
-
-mardi 
-150322 livraison avec Vinicius 
-
-150322 14h30 dépoussiérage [Ferme13](notes/zones/Ferme13.md)
-
 mercredi 
-160322
+160322 14h30 dépoussiérage [Ferme13](notes/zones/Ferme13.md)
+
+160322 14h pister 2ème. Avec [dominiqueByrde](notes/utilisateurs/beneficiaires/dominiqueByrde.md)
 
 jeudi 
 170322 13h30 Visite GESDEC M. Wilhelm Damien 
 
 vendredi 
+180322 9h30-10h pico et serrure cave. 
+
 180322 13h15 visite [Sirion](notes/equipements/vehicules/Sirion.md) piste 2
 
 180322 15h visite ruche puis bilan [ViniciusKruger](notes/utilisateurs/beneficiaires/ViniciusKruger.md)
@@ -35,7 +31,9 @@ dimanche
 200322
 
 lundi 
-210322 0224209111 chemin des communaux 40 1233 Bernex composte sig plus 100kg [D_AteliersLignon](notes/departements/D_AteliersLignon.md)
+210322 7h 0224209111 chemin des communaux 40 1233 Bernex composte sig plus 100kg [D_AteliersLignon](notes/departements/D_AteliersLignon.md)
+
+210322 14h aide pour [maximeChiavaroli](notes/utilisateurs/beneficiaires/maximeChiavaroli.md) 
 
 mardi 
 220322
@@ -86,7 +84,7 @@ mercredi
 060422
 
 jeudi 
-070422
+070422 nettoyage tte journée kurz avec Dom
 
 vendredi 
 080422
