@@ -38,7 +38,7 @@
 
 [[notes/zones/ArrivagesRuche]]
 
-[[notes/zones/TriRuche]]
+[[notes/zones/tri]]
 
 [[notes/zones/QuaiRuche]]
 

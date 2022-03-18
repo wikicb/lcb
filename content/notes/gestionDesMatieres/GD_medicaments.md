@@ -1,5 +1,5 @@
 ---
-title: "Médicaments"
+title: "Médicaments (médicaments périmés autres que ceux visés à la rubrique 18 01 08 - 180109)"
 ---
 
 ## Equipement de protection

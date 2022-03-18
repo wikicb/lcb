@@ -45,7 +45,7 @@ jeudi
 240322
 
 vendredi 
-250322 
+250322 9h15 rapport de stage [danielPreviti](notes/utilisateurs/beneficiaires/danielPreviti.md)
 
 samedi 
 260322
@@ -63,10 +63,10 @@ mercredi
 300322 19h association agex cycle du renard, chemin des Lézard 24, 1219 Aïre
 
 jeudi 
-310322
+310322 
 
 vendredi 
-010422
+010422 
 
 samedi 
 020422

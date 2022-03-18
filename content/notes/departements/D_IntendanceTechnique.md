@@ -20,7 +20,7 @@ title: "En lien avec l'intendance et service technique"
 
 191121 @25_casierRuche refaite 14,50chf
 
-181121 [C_Balais60cm](notes/equipements/consommables/C_Balais60cm.md) [TriRuche](notes/zones/TriRuche.md) et [D_Brocante](notes/departements/D_Brocante.md)
+181121 [C_Balais60cm](notes/equipements/consommables/C_Balais60cm.md) [tri](notes/zones/tri.md) et [D_Brocante](notes/departements/D_Brocante.md)
 
 [D_Nettoyage](notes/departements/D_Nettoyage.md)
 020721 JACQUOT BEURET Nathalie - lit noir stylo feutre et frigo éponge magique.

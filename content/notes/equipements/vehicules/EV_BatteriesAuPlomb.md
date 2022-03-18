@@ -1,4 +1,4 @@
 ---
-title: "EV Batteries au plomb"
+title: "Batteries au plomb (piles au plomb et accumulateurs au plomb - 160601)"
 ---
 

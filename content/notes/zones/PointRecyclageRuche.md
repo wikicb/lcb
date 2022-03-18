@@ -15,7 +15,7 @@ title: "Point de recyclage couloir Ruche"
 |Déplacer le chariot avec les éléments de recyclage|![I_PointRecyclage-3](notes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-3.jpg)|
 |Pour la poubelle d'incinérable vous pouvez vous servir du diable dirigez le diable d'une main et le chariot de l'autre main|![I_PointRecyclage-4](notes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-4.jpg)|
 |Faites un premier stop au déchets spéciaux si vous avez des produits à déposer (aérosols, liquides inflammables, et autres produits dangereux). Placez les produits dans les bons bacs. Dans cet exemple celui des aérosols|![I_PointRecyclage-5](notes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-5.jpg)|
-|Puis allez dans la zone [tri](/notes/zones/TriRuche.md) et commencez par les éléments les plus grands exemple le sac dincinérable. À fermer avant de jeter.|![I_PointRecyclage-6](notes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-6.jpg)|
+|Puis allez dans la zone [tri](notes/zones/tri.md) et commencez par les éléments les plus grands exemple le sac dincinérable. À fermer avant de jeter.|![I_PointRecyclage-6](notes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-6.jpg)|
 |Les sacs 110L se trouvent entre les bacs sur le chariot|![I_PointRecyclage-7](notes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-7.jpg)|
 |S'il n'y a plus de sac vous pouvez en trouver dans l'armoire pratique au quai, demandez la clé à un encadrant|![I_PointRecyclage-8](notes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-8.jpg)|
 |Remettez un sac et laisser le diable au sol prêt à partir|![I_PointRecyclage-9](notes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage-9.jpg)|
@@ -35,4 +35,4 @@ title: "Point de recyclage couloir Ruche"
 |Vérifiez que c'est tout bon.|![I_PointRecyclage1-23](notes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)|
 |Paraphez la feuille de suivi||
 
-[PointRecyclageClients](notes/gestionDesMatieres/PointRecyclageClients.md)
+[point de recyclage brocante](notes/gestionDesMatieres/point%20de%20recyclage%20brocante.md)

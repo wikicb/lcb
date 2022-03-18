@@ -11,7 +11,7 @@ title: "Gestion des matières"
 
 ## Matières:
 [Papier Carton mélange 1-02et4](notes/equipements/consommables/PapierCartonMelange1-02et4.md)\
-[Eternit](notes/gestionDesMatieres/Eternit.md)
+[GD_EternitAmiante](notes/gestionDesMatieres/GD_EternitAmiante.md)
 
 
 ## Historique

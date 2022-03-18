@@ -60,7 +60,8 @@ V113_gilet_bleu-orange_S [[notes/statut/S_Libre]]
 
 V114_gilet_bleu-orange_S [[notes/statut/S_Libre]]
 
-V115_gilet_bleu-orange_S [[notes/statut/S_Libre]]
+V115_gilet_bleu-orange_S [S_Libre](notes/statut/S_Libre.md)
+samuelBorges
 
 V116_gilet_bleu-orange_S [[notes/statut/S_Libre]]
 
