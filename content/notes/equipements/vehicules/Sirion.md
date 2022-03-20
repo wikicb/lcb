@@ -22,6 +22,8 @@ ExpertisesVisitesOCV: 270918
 ## Afaire:
 
 ## Historique:
+180322 13h15 piste 2 visite passée sans problèmes
+
 141221 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) sur demande de gillesChervet j'ai commandé 4 pneus Barum Polaris 5 TTC 290chf (bonne longévité) danielSarraco ira les faire monter.
 
 180521 [EV_AjoutLiquide](notes/equipements/vehicules/EV_AjoutLiquide.md) lave glace

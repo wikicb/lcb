@@ -7,29 +7,6 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
-mercredi 
-160322 14h30 dépoussiérage [Ferme13](notes/zones/Ferme13.md)
-
-160322 14h pister 2ème. Avec [dominiqueByrde](notes/utilisateurs/beneficiaires/dominiqueByrde.md)
-
-jeudi 
-170322 13h30 Visite GESDEC M. Wilhelm Damien 
-
-vendredi 
-180322 9h30-10h pico et serrure cave. 
-
-180322 13h15 visite [Sirion](notes/equipements/vehicules/Sirion.md) piste 2
-
-180322 15h visite ruche puis bilan [ViniciusKruger](notes/utilisateurs/beneficiaires/ViniciusKruger.md)
-
-110322  [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
-
-samedi 
-190322 13h13 Cathy Pierre à la maison 
-
-dimanche 
-200322
-
 lundi 
 210322 7h 0224209111 chemin des communaux 40 1233 Bernex composte sig plus 100kg [D_AteliersLignon](notes/departements/D_AteliersLignon.md)
 
@@ -46,6 +23,8 @@ jeudi
 
 vendredi 
 250322 9h15 rapport de stage [danielPreviti](notes/utilisateurs/beneficiaires/danielPreviti.md)
+
+250322  [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
 
 samedi 
 260322
@@ -105,7 +84,7 @@ mercredi
 130422
 
 jeudi 
-140422
+140422 départ pour Budapest 
 
 vendredi 
 150422
@@ -117,10 +96,10 @@ dimanche
 170422
 
 lundi 
-180422 7h30 [cyrilLieberherr](notes/utilisateurs/beneficiaires/cyrilLieberherr.md) jusqu'au 270522
+180422 
 
 mardi 
-190422
+190422 7h30 [cyrilLieberherr](notes/utilisateurs/beneficiaires/cyrilLieberherr.md) jusqu'au 270522
 
 mercredi 
 200422

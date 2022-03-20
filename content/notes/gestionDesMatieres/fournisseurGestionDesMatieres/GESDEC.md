@@ -1,10 +1,17 @@
-100821 [[notes/gestionDesMatieres/fournisseurGestionDesMatieres/pharmacieBedat]] [[notes/utilisateurs/beneficiaires/danielSarraco]] médicaments sac
+---
+title: "GESDEC"
+---
 
-160421 inventaire déchets [[notes/utilisateurs/beneficiaires/gillesChervet]] me demande d'envoye le mail pour [[notes/gestionDesMatieres/fournisseurGestionDesMatieres/GESDEC]] fait en ce jour.
+jeudi 
+170322 13h30 Visite GESDEC M. Wilhelm Damien la visite c'est bien passée, il nous manque juste un bac de rétention pour les graisses/huiles sous l'escalier du restaurent.
 
-140421 Médicaments [[notes/gestionDesMatieres/fournisseurGestionDesMatieres/pharmacieBedat]] [[notes/utilisateurs/beneficiaires/danielSarraco]] bureau encadrants ok
+100821 [pharmacieBedat](notes/gestionDesMatieres/fournisseurGestionDesMatieres/pharmacieBedat.md) [danielSarraco](notes/utilisateurs/beneficiaires/danielSarraco.md) médicaments sac
 
-130421 [[notes/gestionDesMatieres/fournisseurGestionDesMatieres/GESDEC]][[notes/utilisateurs/beneficiaires/gillesChervet]] envoyé les 2 documents Excel.
+160421 inventaire déchets [gillesChervet](notes/utilisateurs/beneficiaires/gillesChervet.md) me demande d'envoye le mail pour [GESDEC](notes/gestionDesMatieres/fournisseurGestionDesMatieres/GESDEC.md) fait en ce jour.
+
+140421 [pharmacieBedat](notes/gestionDesMatieres/fournisseurGestionDesMatieres/pharmacieBedat.md) [danielSarraco](notes/utilisateurs/beneficiaires/danielSarraco.md) Médicaments bureau encadrants ok
+
+130421 [GESDEC](notes/gestionDesMatieres/fournisseurGestionDesMatieres/GESDEC.md)[gillesChervet](notes/utilisateurs/beneficiaires/gillesChervet.md) envoyé les 2 documents Excel.
 
 290321 Ordinateur Microsoft Excel whatsapp [[notes/utilisateurs/beneficiaires/virginieBarrientos]] ok
 

@@ -6,9 +6,9 @@ title: "Ferme 13"
 Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nous aide à progresser:)\
 *Photos du 21 février 2022*
 ## Hall d'entrée
-![i_ferme13-1](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-1.jpg)
+![i_ferme13-1](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-1.jpg)
 ## ENTRÉE - ARMOIRE
-![i_ferme13-2](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-2.jpg)
+![i_ferme13-2](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-2.jpg)
 - [ ] Aspirateur
 - [ ] Planche à repasser
 - [ ] Fer
@@ -21,9 +21,9 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] 2 séchoirs pliable
 - [ ] Panier à linge
 ## Salon
-![i_ferme13-3](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-3.jpg)
+![i_ferme13-3](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-3.jpg)
 ## Séjours - paroi murale
-![i_ferme13-4](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-4.jpg)
+![i_ferme13-4](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-4.jpg)
 - [ ] 4 verres à pieds
 - [ ] 4 verres apéritif
 - [ ] 4 coupes
@@ -36,17 +36,17 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] Molleton
 - [ ] 4 sets de table
 ## Balcon
-![i_ferme13-5](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-5.jpg)
+![i_ferme13-5](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-5.jpg)
 ## Cuisine vue 1
-![i_ferme13-6](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-6.jpg)
+![i_ferme13-6](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-6.jpg)
 ## Cuisine vue 2
-![i_ferme13-7](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-7.jpg)
+![i_ferme13-7](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-7.jpg)
 ## Cuisine - Four
-![i_ferme13-8](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-8.jpg)
+![i_ferme13-8](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-8.jpg)
 ## Cuisine - Réfrigérateur
-![i_ferme13-9](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-9.jpg)
+![i_ferme13-9](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-9.jpg)
 ## Cuisine - Produits d'entretien
-![i_ferme13-10](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-10.jpg)
+![i_ferme13-10](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-10.jpg)
 - [ ] Brosse
 - [ ] Produit universel
 - [ ] Produit vitre
@@ -54,7 +54,7 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] Dégraissant
 - [ ] Ventouse à déboucher 
 ## Cuisine - Tiroir à services
-![i_ferme13-11](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-11.jpg)
+![i_ferme13-11](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-11.jpg)
 - [ ] 8 fourchettes
 - [ ] 8 couteaux
 - [ ] 8 couteaux à viande
@@ -68,7 +68,7 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] Ouvre - bouteilles
 - [ ] Spatules en bois
 ## Cuisine - Armoire à appareils
-![i_ferme13-12](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-12.jpg)
+![i_ferme13-12](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-12.jpg)
 - [ ] Mixer avec 4 fouets
 - [ ] Rouleau à patisserie
 - [ ] Balance
@@ -81,7 +81,7 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] 2 entonnoirs
 - [ ] 2 passoires
 ## Cuisine - Armoire à balais
-![i_ferme13-13](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-13.jpg)
+![i_ferme13-13](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-13.jpg)
 - [ ] 2 linges de cuisine
 - [ ] 2 linge de mains
 - [ ] 2 pattes à four
@@ -92,7 +92,7 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] Balai brosse
 - [ ] Pelle et époussoir
 ## Cuisine - Accessaires de cuisson
-![i_ferme13-14](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-14.jpg)
+![i_ferme13-14](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-14.jpg)
 - [ ] 3 casseroles / couvercles
 - [ ] 3 poêles
 - [ ] 3 plats pour le four
@@ -105,7 +105,7 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] Plateau
 - [ ] 2 planches à découper 
 ## Cuisine - Meuble sur évier
-![i_ferme13-15](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-15.jpg)
+![i_ferme13-15](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-15.jpg)
 - [ ] Panier et planche à pain
 - [ ] 6 assiettes plates
 - [ ] 6 assiettes creuses
@@ -118,9 +118,9 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] Carafe
 - [ ] 1 bol et 1 tasse
 ## Chambre à coucher
-![i_ferme13-16](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-16.jpg)
+![i_ferme13-16](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-16.jpg)
 ## Chambre - Armoire literie
-![i_ferme13-17](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-17.jpg)
+![i_ferme13-17](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-17.jpg)
 - [ ] Couvre-lits 
 - [ ] 2 duvets
 - [ ] 2 oreillers
@@ -132,13 +132,17 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] 2 linges de bain petits
 - [ ] 2 lavettes
 ## Salle de bain
-![i_ferme13-18](notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-18.jpg)
+![i_ferme13-18](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-18.jpg)
 - [ ] Savon main liquide où solide
 - [ ] Sent bon
 - [ ] Papier WC
 - [ ] Produit WC
 - [ ] Brosse WC
 ## Historique:
+
+Vendredi 
+180322 14h30 dépoussiérage suite aux transformations au balcon. Miroirs et vitres ext. Repris quelques tâches ponctuelles. Salle d'eau nettoyée et salon aspirer de haut en bas. Remise en place du mobilier et balayage humide.
+
 210222:
 - Nettoyage terminé 
 - Revisé seuil porte salle de bain 
