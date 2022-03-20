@@ -4,7 +4,7 @@ title: "Bureaux"
 
 ## Nettoyage des bureaux
 ### Les différents bureaux:
-[Scretariat](/notes/zones/SecretariatRuche.md)\
+[Scretariat](notes/zones/secretariat%20Ruche.md)\
 [Bureau de la direction](/notes/zones/BureauDirectionRuche.md)\
 [Bureau des encadrents](/notes/zones/BureauEncadrentsRuche.md)
 
@@ -18,7 +18,7 @@ Si vous débutez dans le nettoyage, je vous invite à cliquer sur le lien [Philo
 |1.2 Allumer la lumière si nécessaire pour avoir une meilleure visibilité|![I_NettoyageBureauRuche-3](/notes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-3.jpg)|
 |1.3 Si nécessaire aspirer, balayer les toiles d'araignées qui sont en hauteur|![I_NettoyageBureauRuche-4](/notes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-4.jpg)|
 |1.4 Prendre les poubelles et corbeilles papier dessous et à côtés des bureaux|![I_NettoyageBureauRuche-5](/notes/images/i_nettoyage/i_bureauxRuche/I_NettoyageBureauRuche-5.jpg)|
-|1.5 Les vider au [point de recyclage](/notes/zones/PointRecyclageRuche.md) et bien les remettre à leur place|![I_PointRecyclage1](/notes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)|
+|1.5 Les vider au [point de recyclage](notes/zones/recyclage%20couloir%20secretariat-cantine%20Ruche.md) et bien les remettre à leur place|![I_PointRecyclage1](/notes/images/i_gestionMatieres/i_pointRecyclage/I_PointRecyclage1.jpg)|
 |1.6 S'il n'y a plus de sacs dans la poubelle prendre un rouleau de [sac17L](/notes/equipements/sac17L.md) au [local  nettoyage](/notes/zones/LocalNettoyage.md) derrière la porte.|x|
 ### Nettoyage au chiffons:
 | Marche à suivre | Photo |

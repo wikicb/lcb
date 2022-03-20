@@ -9,7 +9,7 @@ title: "Sogetri"
 Lorsque vous avez vidé le camion vous recevez une quittance.
 ![i_bonSogetri1](/notes/images/i_gestionMatieres/i_bonQuittance/i_bonSogetri1.jpg)
 Utiliser le [carnet kilomètres du vehicule](/notes/equipements/carnetkilometresvehiculed.md) et son stylo. (1) verifier que le type de déchet correspond à ce que vous avez vidés. Puis signez (2).\
-Une fois au [quai](/notes/zones/QuaiRuche.md) déposer le reçu dans la pelle sous les clés des véhicules.
+Une fois au [quai Ruche](notes/zones/quai%20Ruche.md) déposer le reçu dans la pelle sous les clés des véhicules.
 ![I_Sogetri1](/notes/images/i_gestionMatieres/i_sogtri/I_Sogetri1.jpg)
 
 
@@ -20,33 +20,33 @@ Une fois au [quai](/notes/zones/QuaiRuche.md) déposer le reçu dans la pelle so
 
 241221 [PapierCartonMelange1-02et4](/notes/equipements/consommables/PapierCartonMelange1-02et4.md) 460kg 
 
-231221 [GD_VerrePlat-Vitrages](notes/gestionDesMatieres/GD_VerrePlat-Vitrages.md) 600kg
+231221 [Verre plat - vitrages](notes/gestionDesMatieres/Verre%20plat%20-%20vitrages.md) 600kg
 
-211221 [GD_FilsDeCuivreIsolé](notes/gestionDesMatieres/GD_FilsDeCuivreIsolé.md) 112kg [[/notes/equipements/vehicules/EV_BatteriesAuPlomb]] 48kg [[laitonLourd]] 22kg [[/notes/equipements/consommables/GD_CuivreChaudron2-75]] 28kg [[/notes/equipements/consommables/GD_CuivreChaudron1-95]] 10kg [[GD_CoffreFort]] 380kg [GD_EternitAmiante](notes/gestionDesMatieres/GD_EternitAmiante.md) 340 [[PET]] 20kg
+211221 [Fils de cuivre isolé](notes/gestionDesMatieres/Fils%20de%20cuivre%20isolé.md) 112kg [[/notes/equipements/vehicules/EV_BatteriesAuPlomb]] 48kg [[Laiton]] 22kg [[notes/equipements/consommables/Cuivre]] 28kg [Cuivre](notes/equipements/consommables/Cuivre.md) (1) 10kg [[Coffre fort]] 380kg [GD_EternitAmiante](notes/gestionDesMatieres/GD_EternitAmiante.md) 340 [[PET]] 20kg
 
 151221 [[/notes/equipements/consommables/PapierCartonMelange1-02et4]] 680kg
 
 290721 [[/notes/equipements/consommables/C_PaletteEuro80x120]] x20
 
-010621 [[GD_Inox18-8v2a]] 2kg [[/notes/equipements/consommables/GD_CuivreChaudron1-95]] 2kg [[etainUstensiles]] 12kg [[/notes/equipements/consommables/GD_CuivreChaudron2-75]] 14kg [[laitonLourd]] 14kg [[notes/gestionDesMatieres/GD_FilsDeCuivreIsolé]] 58kg [[PET]] 26kg [[Alu que les canettes - IGORA]] 8kg
+010621 [[Inox]] 2kg [Cuivre](notes/equipements/consommables/Cuivre.md) (1) 2kg [[Etain]] 12kg [[notes/equipements/consommables/Cuivre]] 14kg [[Laiton]] 14kg [[notes/gestionDesMatieres/Fils de cuivre isolé]] 58kg [[PET]] 26kg [[Alu que les canettes - IGORA]] 8kg
 
 070421 [[/notes/equipements/consommables/C_PaletteEuro80x120]] x20
 
-160421 [[/notes/gestionDesMatieres/ferrailleLegere]] 500
+160421 [[notes/gestionDesMatieres/Ferraille]] 500
 
-140421 [[notes/gestionDesMatieres/GD_FilsDeCuivreIsolé]] 80
+140421 [[notes/gestionDesMatieres/Fils de cuivre isolé]] 80
 
-140421 [[/notes/equipements/consommables/GD_CuivreChaudron1-95]] 14
+140421 [Cuivre](notes/equipements/consommables/Cuivre.md) (1) 14
 
 140421 [[inox18/8v2a]] 4
 
-140421 [[/notes/equipements/consommables/GD_CuivreChaudron2-75]] 12
+140421 [[notes/equipements/consommables/Cuivre]] 12
 
 140421 [[GD_cuivreEtamé]] 24
 
-140421 [[laitonLourd]] 10
+140421 [[Laiton]] 10
 
-140421 [[radiographieMetauxDiversaTrier]] 28
+140421 [[Radiographie]] 28
 
 140421 [[notes/equipements/consommables/GD_IncinerablesDechetsUrbainsNonTries]] 420
 

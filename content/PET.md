@@ -3,7 +3,7 @@ title: "PET"
 ---
 
 ## Empacements:
-### Zone: [tri](notes/zones/tri.md) emplacement 24
+### Zone: [tri Ruche](notes/zones/tri%20Ruche.md) emplacement 24
 ![i-triZonesConteneurs](/notes/images/i_zones/i_quai/i-triZonesConteneurs.jpg)
 ### Zone: [point de recyclage brocante](notes/gestionDesMatieres/point%20de%20recyclage%20brocante.md) brocante
 

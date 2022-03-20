@@ -37,7 +37,7 @@ Retourner vers le [rayonnageMobileAvecDechetsSpeciauxASeSeparer](notes/gestionDe
 ![i_produitsSpeciaux-14](/notes/images/i_gestionMatieres/i_dechetsSpeciaux/i_produitsSpeciaux/i_produitsSpeciaux-14.jpg)
 S'il y avait des médicaments les mettre dans le [conteneurMedicaments](/notes/gestionDesMatieres/conteneurMedicaments.md)
 ![i_produitsSpeciaux-15](/notes/images/i_gestionMatieres/i_dechetsSpeciaux/i_produitsSpeciaux/i_produitsSpeciaux-15.jpg)
-Aller à la zone de [tri](notes/zones/tri.md) et trier les matières à recycler.
+Aller à la zone de [tri Ruche](notes/zones/tri%20Ruche.md) et trier les matières à recycler.
 ![i_produitsSpeciaux-16](/notes/images/i_gestionMatieres/i_dechetsSpeciaux/i_produitsSpeciaux/i_produitsSpeciaux-16.jpg)
 Plier les caisses et les remettre à leur place.
 ![i_produitsSpeciaux-17](/notes/images/i_gestionMatieres/i_dechetsSpeciaux/i_produitsSpeciaux/i_produitsSpeciaux-17.jpg)

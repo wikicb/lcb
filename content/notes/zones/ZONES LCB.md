@@ -2,7 +2,7 @@
 
 ### [[notes/zones/ZoneRuche]]
 
-[[notes/zones/SecretariatRuche]]
+[[notes/zones/secretariat Ruche]]
 
 [[notes/zones/BureauDirectionRuche]]
 
@@ -38,9 +38,9 @@
 
 [[notes/zones/ArrivagesRuche]]
 
-[[notes/zones/tri]]
+[[notes/zones/tri Ruche]]
 
-[[notes/zones/QuaiRuche]]
+[[notes/zones/quai Ruche]]
 
 - [[notes/zones/StockageBasQuai]]
 - [[notes/zones/StockageHautQuai]]
@@ -52,7 +52,7 @@
 - [[notes/zones/RangementsEntretienVehicules]]
 - [[notes/zones/TableauOutilsEPI]]
 
-[[notes/zones/TransitRuche]]
+[[notes/zones/transit Ruche]]
 
 - [[notes/zones/StockageBasTransit]]
 - [[notes/zones/StockageHautTransit]]
