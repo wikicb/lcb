@@ -22,13 +22,13 @@ Une fois au [quai Ruche](notes/zones/quai%20Ruche.md) déposer le reçu dans la 
 
 231221 [Verre plat - vitrages](notes/gestionDesMatieres/Verre%20plat%20-%20vitrages.md) 600kg
 
-211221 [filsDeCuivreIsole](notes/filsDeCuivreIsole.md) 112kg [[/notes/equipements/vehicules/EV_BatteriesAuPlomb]] 48kg [[Laiton]] 22kg [[notes/equipements/consommables/Cuivre]] 28kg [Cuivre](notes/equipements/consommables/Cuivre.md) (1) 10kg [[Coffre fort]] 380kg [GD_EternitAmiante](notes/gestionDesMatieres/GD_EternitAmiante.md) 340 [[PET]] 20kg
+211221 [filsDeCuivreIsole](notes/filsDeCuivreIsole.md) 112kg [[/notes/equipements/vehicules/EV_BatteriesAuPlomb]] 48kg [[notes/gestionDesMatieres/Laiton]] 22kg [[notes/equipements/consommables/Cuivre]] 28kg [Cuivre](notes/equipements/consommables/Cuivre.md) (1) 10kg [[notes/gestionDesMatieres/Coffre fort]] 380kg [GD_EternitAmiante](notes/gestionDesMatieres/GD_EternitAmiante.md) 340 [[notes/gestionDesMatieres/PET]] 20kg
 
 151221 [[/notes/equipements/consommables/PapierCartonMelange1-02et4]] 680kg
 
 290721 [[/notes/equipements/consommables/C_PaletteEuro80x120]] x20
 
-010621 [[Inox]] 2kg [Cuivre](notes/equipements/consommables/Cuivre.md) (1) 2kg [[Etain]] 12kg [[notes/equipements/consommables/Cuivre]] 14kg [[Laiton]] 14kg [[notes/filsDeCuivreIsole]] 58kg [[PET]] 26kg [[Alu que les canettes - IGORA]] 8kg
+010621 [[notes/gestionDesMatieres/Inox]] 2kg [Cuivre](notes/equipements/consommables/Cuivre.md) (1) 2kg [[notes/gestionDesMatieres/Etain]] 12kg [[notes/equipements/consommables/Cuivre]] 14kg [[notes/gestionDesMatieres/Laiton]] 14kg [[notes/filsDeCuivreIsole]] 58kg [[notes/gestionDesMatieres/PET]] 26kg [[notes/gestionDesMatieres/Alu que les canettes - IGORA]] 8kg
 
 070421 [[/notes/equipements/consommables/C_PaletteEuro80x120]] x20
 
@@ -42,15 +42,15 @@ Une fois au [quai Ruche](notes/zones/quai%20Ruche.md) déposer le reçu dans la 
 
 140421 [[notes/equipements/consommables/Cuivre]] 12
 
-140421 [[GD_cuivreEtamé]] 24
+140421 [[notes/gestionDesMatieres/GD_cuivreEtamé]] 24
 
-140421 [[Laiton]] 10
+140421 [[notes/gestionDesMatieres/Laiton]] 10
 
-140421 [[Radiographie]] 28
+140421 [[notes/gestionDesMatieres/Radiographie]] 28
 
 140421 [[notes/equipements/consommables/GD_IncinerablesDechetsUrbainsNonTries]] 420
 
-140421 [[inertesTypeBGravatsDCMI]] 820
+140421 [[notes/gestionDesMatieres/inertesTypeBGravatsDCMI]] 820
 
 
 
