@@ -22,19 +22,19 @@ Une fois au [quai Ruche](notes/zones/quai%20Ruche.md) déposer le reçu dans la 
 
 231221 [Verre plat - vitrages](notes/gestionDesMatieres/Verre%20plat%20-%20vitrages.md) 600kg
 
-211221 [Fils de cuivre isole](notes/gestionDesMatieres/Fils%20de%20cuivre%20isole.md) 112kg [[/notes/equipements/vehicules/EV_BatteriesAuPlomb]] 48kg [[Laiton]] 22kg [[notes/equipements/consommables/Cuivre]] 28kg [Cuivre](notes/equipements/consommables/Cuivre.md) (1) 10kg [[Coffre fort]] 380kg [GD_EternitAmiante](notes/gestionDesMatieres/GD_EternitAmiante.md) 340 [[PET]] 20kg
+211221 [filsDeCuivreIsole](notes/filsDeCuivreIsole.md) 112kg [[/notes/equipements/vehicules/EV_BatteriesAuPlomb]] 48kg [[Laiton]] 22kg [[notes/equipements/consommables/Cuivre]] 28kg [Cuivre](notes/equipements/consommables/Cuivre.md) (1) 10kg [[Coffre fort]] 380kg [GD_EternitAmiante](notes/gestionDesMatieres/GD_EternitAmiante.md) 340 [[PET]] 20kg
 
 151221 [[/notes/equipements/consommables/PapierCartonMelange1-02et4]] 680kg
 
 290721 [[/notes/equipements/consommables/C_PaletteEuro80x120]] x20
 
-010621 [[Inox]] 2kg [Cuivre](notes/equipements/consommables/Cuivre.md) (1) 2kg [[Etain]] 12kg [[notes/equipements/consommables/Cuivre]] 14kg [[Laiton]] 14kg [[notes/gestionDesMatieres/Fils de cuivre isole]] 58kg [[PET]] 26kg [[Alu que les canettes - IGORA]] 8kg
+010621 [[Inox]] 2kg [Cuivre](notes/equipements/consommables/Cuivre.md) (1) 2kg [[Etain]] 12kg [[notes/equipements/consommables/Cuivre]] 14kg [[Laiton]] 14kg [[notes/filsDeCuivreIsole]] 58kg [[PET]] 26kg [[Alu que les canettes - IGORA]] 8kg
 
 070421 [[/notes/equipements/consommables/C_PaletteEuro80x120]] x20
 
 160421 [[notes/gestionDesMatieres/Ferraille]] 500
 
-140421 [[notes/gestionDesMatieres/Fils de cuivre isole]] 80
+140421 [[notes/filsDeCuivreIsole]] 80
 
 140421 [Cuivre](notes/equipements/consommables/Cuivre.md) (1) 14
 
