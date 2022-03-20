@@ -15,7 +15,7 @@ title: "Lexique, glossaire, index en lien avec la gestion des matière (déchets
 
 [Cuivre](notes/equipements/consommables/Cuivre.md)
 
-[Fils de cuivre isolé](notes/gestionDesMatieres/Fils%20de%20cuivre%20isolé.md)
+[Fils de cuivre isole](notes/gestionDesMatieres/Fils%20de%20cuivre%20isole.md)
 
 ## E
 [Etain](Etain.md)
