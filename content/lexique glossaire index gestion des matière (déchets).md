@@ -15,7 +15,7 @@ title: "Lexique, glossaire, index en lien avec la gestion des matière (déchets
 
 [Cuivre](notes/equipements/consommables/Cuivre.md)
 
-[filsDeCuivreIsole](notes/filsDeCuivreIsole.md)
+[filsCuivre](filsCuivre.md)
 
 ## E
 [Etain](Etain.md)
