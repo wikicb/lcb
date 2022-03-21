@@ -1,5 +1,5 @@
 ---
-title: "Fils de cuivre isole"
+title: "Fils de cuivre isolé"
 ---
 
 ## Infos:
