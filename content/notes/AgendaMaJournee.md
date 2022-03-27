@@ -8,31 +8,10 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
 lundi 
-210322 7h 0224209111 chemin des communaux 40 1233 Bernex composte sig plus 100kg [D_AteliersLignon](notes/departements/D_AteliersLignon.md)
+280322 [garageAnken](notes/equipements/vehicules/garageAnken.md) visite honda jazz appeler
 
-210322 14h aide pour [maximeChiavaroli](notes/utilisateurs/beneficiaires/maximeChiavaroli.md) 
+280322 lettre permis GC
 
-mardi 
-220322
-
-mercredi 
-230322
-
-jeudi 
-240322
-
-vendredi 
-250322 9h15 rapport de stage [danielPreviti](notes/utilisateurs/beneficiaires/danielPreviti.md)
-
-250322  [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
-
-samedi 
-260322
-
-dimanche 
-270322
-
-lundi 
 280322 11h fin d'ADR [pascalNoel](notes/utilisateurs/beneficiaires/pascalNoel.md)
 
 mardi 
@@ -45,7 +24,7 @@ jeudi
 310322 
 
 vendredi 
-010422 
+010422 [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
 
 samedi 
 020422
@@ -57,7 +36,7 @@ lundi
 040422
 
 mardi 
-050422
+050422 13h05 piste 2 Honda jazz
 
 mercredi 
 060422
