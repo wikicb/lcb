@@ -1,1 +1,1 @@
-[[notes/equipements/outils/L_Outils]]es/equipements/consommables/C_BatteriesMakita]] [[notes/equipements/vehicules/Doblo]] [[notes/statut/Afaire]]
+[[notes/equipements/outils/L_Outils]]es/equipements/consommables/C_BatteriesMakita]] [[notes/equipements/vehicules/Doblo]] [[notes/statut/Afaire]] 040422 [etienneMagneat](notes/utilisateurs/beneficiaires/etienneMagneat.md)

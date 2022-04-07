@@ -1,0 +1,1 @@
+[L_Outils](notes/equipements/outils/L_Outils.md) [C_BatteriesMakita](notes/equipements/consommables/C_BatteriesMakita.md) 250322 [danielSarraco](notes/utilisateurs/beneficiaires/danielSarraco.md)

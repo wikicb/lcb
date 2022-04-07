@@ -7,66 +7,40 @@ En vert les jours d'interventions idéal, en orange, les jours discutables et en
 
 [Taches périodiques](notes/departements/D_TachesPeriodique.md)
 
-lundi 
-280322 [garageAnken](notes/equipements/vehicules/garageAnken.md) visite honda jazz appeler
-
-280322 lettre permis GC
-
-280322 11h fin d'ADR [pascalNoel](notes/utilisateurs/beneficiaires/pascalNoel.md)
-
-mardi 
-290322
-
-mercredi 
-300322 19h association agex cycle du renard, chemin des Lézard 24, 1219 Aïre
-
-jeudi 
-310322 
-
 vendredi 
-010422 [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture.
+080422 faire la lettre pour [danielPreviti](notes/utilisateurs/beneficiaires/danielPreviti.md)
+
+Changer bac inertes
+
+080422 double seaux Lignon10 avec gazes grises
+
+080422 [Hercule](notes/equipements/vehicules/Hercule.md) avec benne jaune pour revoir fermeture
+
+080422 patron amag Fessler merci Valérie.
+
+080422 appeler caravane sans frontière photo Maria
 
 samedi 
-020422
-
-dimanche 
-030422
-
-lundi 
-040422
-
-mardi 
-050422 13h05 piste 2 Honda jazz
-
-mercredi 
-060422
-
-jeudi 
-070422 nettoyage tte journée kurz avec Dom
-
-vendredi 
-080422
-
-samedi 
-090422
+090422 060422 [garageAnken](notes/equipements/vehicules/garageAnken.md) visite honda jazz appeler
 
 dimanche 
 100422
 
 lundi 
-110422
+110422 
+040422 lettre permis GC
 
 mardi 
 120422
 
 mercredi 
-130422
+130422 [romainMaurice](romainMaurice.md) demander num pantalon et débarras
 
 jeudi 
 140422 départ pour Budapest 
 
 vendredi 
-150422
+150422 congé 
 
 samedi 
 160422
@@ -75,9 +49,11 @@ dimanche
 170422
 
 lundi 
-180422 
+180422 congé 
 
 mardi 
+190422 vacances 
+
 190422 7h30 [cyrilLieberherr](notes/utilisateurs/beneficiaires/cyrilLieberherr.md) jusqu'au 270522
 
 mercredi 
@@ -138,7 +114,8 @@ dimanche
 080522
 
 lundi 
-090522
+090522 200522 8h45 visite du [King](notes/equipements/vehicules/King.md)
+
 
 mardi 
 100522
@@ -171,7 +148,7 @@ jeudi
 190522
 
 vendredi 
-200522
+200522 8h45 visite du [King](notes/equipements/vehicules/King.md)
 
 samedi 
 210522
@@ -243,10 +220,10 @@ dimanche
 120622
 
 lundi 
-130622
+130622 retrait permis de conduire 
 
 mardi 
-140622
+140622 
 
 mercredi 
 150622
@@ -330,7 +307,7 @@ lundi
 110722
 
 mardi 
-120722
+120722 fin du retrait du permis de conduire.
 
 mercredi 
 130722

@@ -6,6 +6,8 @@ title: "Dernière personnes équipées"
 ## Infos:
 
 ## A faire: 
+060322 [[romainMaurice]]
+
 080322 [ViniciusKruger](notes/utilisateurs/beneficiaires/ViniciusKruger.md)
 
 070322 [[notes/utilisateurs/loickSubilia]]

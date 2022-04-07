@@ -1,1 +1,1 @@
-[[notes/equipements/outils/L_Outils]]es/zones/armoireTechnique]]eTechnique]]
+[L_Outils](notes/equipements/outils/L_Outils.md) [ArmoireTechnique](notes/zones/ArmoireTechnique.md)
