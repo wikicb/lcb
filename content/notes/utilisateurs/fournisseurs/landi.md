@@ -5,7 +5,11 @@ title: "Landi"
 [Agenda](notes/AgendaMaJournee.md) 
 ## Infos:
 
-## A faire: [[C_GiletSignalisationJaune]] x3 [[notes/equipements/consommables/C_SeauTonneauUnivCouv70]] x4 perso [[C_filtreBrita]]
+## A faire: 1×[C_MelangeGrainesPoulesPondeuses](notes/equipements/consommables/C_MelangeGrainesPoulesPondeuses.md)   
+6x [C_BouteilleSodaSream130L](notes/equipements/consommables/C_BouteilleSodaSream130L.md)
+1x distributeur eau poules
+Jus d'orange. 
+o [[C_filtreBrita]]
 5x sac30L
 
 

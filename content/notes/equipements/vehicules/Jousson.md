@@ -12,7 +12,7 @@ Charge utile: 95\
 Huile moteur: [C_HuileMoteurYaccoMoto4T5W-40](notes/equipements/consommables/C_HuileMoteurYaccoMoto4T5W-40.md)\
 Huile pont arrière:\
 Liquide de refroidissement:\
-Pression pneus av et ar\
+Pression pneus av 1,8  et ar 2.1
 Pneu av 110/70-12 47L Power Pure SC\
 Pneu ar 120/70-12 58P Reinf Power Pure SC F+R\
 ExpertisesVisitesOCV: 201118

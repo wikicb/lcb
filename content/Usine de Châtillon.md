@@ -5,7 +5,7 @@ title: "Usine de Châtillon"
 ## Infos:
 Adresse: Chemin des communaux 40\
 Horaires: Ouvert du lundi au vendredi de 7h à 11h45 et de 13h15 à 16h\
-Numéro: 0224209111
+Numéro: 0224209111 
 
 ## Terreau:
 Appeler avant si besoin de terreau car beaucoup de demandes\

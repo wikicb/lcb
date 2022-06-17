@@ -2,7 +2,8 @@
 title: "C11_cleCasierRuche"
 ---
 
-[Clés](notes/equipements/cles/C_Clés.md) [Casiers Ruche](notes/equipements/consommables/C_CasierRuche.md) [sachaGascaen](notes/utilisateurs/beneficiaires/sachaGascaen.md)\
+[Clés](notes/equipements/cles/C_Clés.md) [Casiers Ruche](notes/equipements/consommables/C_CasierRuche.md) [[lehna]]
+sachaGascaen\
 ahmedCosoble\
 erosAparco\
 raphaelFoglia\

@@ -139,8 +139,7 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] Produit WC
 - [ ] Brosse WC
 ## Historique:
-
-Vendredi 
+ 
 180322 14h30 dépoussiérage suite aux transformations au balcon. Miroirs et vitres ext. Repris quelques tâches ponctuelles. Salle d'eau nettoyée et salon aspirer de haut en bas. Remise en place du mobilier et balayage humide.
 
 210222:
