@@ -3,7 +3,7 @@ title: "Sprinkler"
 ---
 
 ## Procédure de contrôle de l'installation sprinkler de la Halle Juliette
-### Présentation de l'installation:
+### Présentation de l'installation Sprinkler
 | Marche à suivre | Photo |
 |---|---|
 |1.1 Vanne principale|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM1-1.jpg)|
@@ -12,7 +12,10 @@ title: "Sprinkler"
 |1.4 Poste à eau|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM1-4.jpg)|
 |1.5 Poste à air|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM1-5.jpg)|
 |1.6 Compresseur du poste à air|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM1-6.jpg)|
-### Contrôle hebdomadaire:
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
+### Contrôle hebdomadaire de l'installation Sprinkler
 | Marche à suivre | Photo |
 |---|---|
 |2.1 Mettre les 2 boîtiers de test alarmes des sprinkler SPB en "test" en levant les touches vers le haut comme sur la photo. Ainsi les pompiers ne sont pas appelés lors du test des alarmes. Les lumières s'allument en bleu dans la section test des SPB. Ils sont sur minuterie de 10min donc relancer si vous pensez avoir besoin de plus de temps.|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM2-1_3-1_3-8_3-17_4-1.jpg)|
@@ -21,7 +24,10 @@ title: "Sprinkler"
 |2.4 Indicateur de la pression en aval (2b) poste eau (avant la surpression. Il faut faire la surpression jusqu'à atteindre 10 bar pour éviter les coups de bélier donc les alarmes)|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM2-4.jpg)|
 |2.5 Vérification de la position des vannes. Les vannes des postes à eau et air doivent rester ouvertes et celle du dernier secteur doit rester fermée.|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM2-5.jpg)|
 |2.6 Voilà la partie "contrôles hebdomadaires" à remplir sur le document au dessus des SPB.|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM2-6.jpg)|
-### Contrôle mensuel:
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div> 
+
+### Contrôle mensuel de l'installation Sprinkler
 | Marche à suivre | Photo |
 |---|---|
 |3.1 Mettre les 2 SPB en "test" en levant les touches vers le haut comme sur la photo. Les pompiers ne sont donc pas appelés durant les 10 prochaines minutes donc relever le bouton si vous pensez avoir besoin de plus de temps. Les lumières s'allument en bleu dans la section test des SPB.|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM2-1_3-1_3-8_3-17_4-1.jpg)|
@@ -49,7 +55,10 @@ title: "Sprinkler"
 |3.23 Il se peut que le fusible sur le compresseur saute: le réactiver en appuyant dessus.|![3-23_sprinkler](notes/images/i_entretien/i_sprinklerGM/3-23_sprinkler.jpg)|
 |3.24 Vérifier que l'interrupteur du compresseur est enclenché.|![3-24_sprinkler](notes/images/i_entretien/i_sprinklerGM/3-24_sprinkler.jpg)|
 |3.25 Voilà la partie "contrôle mensuel" à remplir.|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM3-20.jpg)|
-### Pour surpresser le poste à eau:
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
+### Pour surpresser le poste à eau de l'installation Sprinkler
 | Marche à suivre | Photo |
 |---|---|
 |4.1 Mettre les 2 SPB en "test" en levant les touches vers le haut comme sur la photo. Les pompiers ne sont pas appelés lors du test des alarmes. Les lumières s'allume en bleu dans la section test des SPB. Ils sont sur minuterie de 10min donc relancer si vous pensez avoir besoin de plus de temps.|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM2-1_3-1_3-8_3-17_4-1.jpg)|
@@ -57,7 +66,10 @@ title: "Sprinkler"
 |4.3 (1) Allumer la pompe à eau. (2) Appuyer sur le bouton pour surpresser le poste à eau.|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM4-3.jpg)|
 |4.4 Ne pas dépasser 10 bars vérifier sur le manomètre du poste à eau|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM4-4.jpg)|
 |4.5 Une fois les 10 bars atteints couper l'alimentation de la pompe à eau et son arrivée d'eau. C'est terminé.|![](notes/images/i_entretien/i_sprinklerGM/I_SprinklerGM4-5.jpg)|
-### En cas de fausse alarme ou lorsque l'on souhaite souhaite couper l'alarme en attente de travaux:
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
+### En cas de fausse alarme ou lorsque l'on souhaite souhaite couper l'alarme en attente de travaux sur l'installation Sprinkler
 | Marche à suivre | Photo |
 |---|---|
 |5.1 Aller vers le boitier Securiton.|![5-1_sprinkler](notes/images/i_entretien/i_sprinklerGM/5-1_sprinkler.jpg)|
@@ -68,7 +80,10 @@ title: "Sprinkler"
 |5.6 Taper le nombre du groupe.|![5-6_sprinkler](notes/images/i_entretien/i_sprinklerGM/5-6_sprinkler.jpg)|
 |5.7 Et sélectionner déclencher pour arrêter l'alerte, un petit 1 s'affiche pour donner la quantité de groupe déclenché.|![5-7_sprinkler](notes/images/i_entretien/i_sprinklerGM/5-7_sprinkler.jpg)|
 |5.8 Pour réenclencher réiter les étapes et séléctionner enclencher.|![5-8_sprinkler](notes/images/i_entretien/i_sprinklerGM/5-8_sprinkler.jpg)|
-### Historique
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
+### Historique de l'installation Sprinkler
 250822 Formation Sprinkler avec PT.
 
 040822 Vidange du rez.
