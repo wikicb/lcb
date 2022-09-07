@@ -28,6 +28,11 @@ ExpertisesVisitesOCV: 190117 150914 090312 101109 150906
 ## Afaire:
 
 ## Historique:
+
+040822 [EV_Telecommandes](notes/equipements/vehicules/EV_Telecommandes.md) recablee [ndulaNlandu](notes/utilisateurs/beneficiaires/ndulaNlandu.md)
+
+210622 [garageEmeraude](garageEmeraude.md) points de rouille carrosserie frein à main, appeller garage pour plus d'informations ou GC
+
 171221 [grunderco](notes/utilisateurs/fournisseurs/grunderco.md) ils ont installé un coupe circuit pour pas que la Rodelle puise l'energie de la batterie à l'arrêt.
 
 151221 [[notes/equipements/vehicules/EV_Telecommandes]] jomaAliGassu à vu le problème et c'est trop compliqué il recommande de l'envoyer à faire le travail de la télécommande par des professionnels. Je vais prendre contact avec [grunderco](notes/utilisateurs/fournisseurs/grunderco.md)

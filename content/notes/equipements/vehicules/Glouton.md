@@ -28,6 +28,8 @@ ExpertisesVisitesOCV: 090621 280818
 pneus ar droit et réglage des phares [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
+150822 [EV_Pneus](notes/equipements/vehicules/EV_Pneus.md) av droit vis sortie et réparation.
+
 281221 ce sont les courroies de l' [[notes/equipements/vehicules/EV_Alternateur]] qui patinaient donc mauvaise charge. Nous pouvons aller chercher le vehicule. J'irai demain
 
 231221 [garageAnken](notes/equipements/vehicules/garageAnken.md) problème [EV_Alternateur](notes/equipements/vehicules/EV_Alternateur.md) va regarder ce qui peut être fait. 

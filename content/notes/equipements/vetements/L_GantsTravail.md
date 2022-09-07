@@ -7,7 +7,7 @@ title: "Gants de travail"
 |---|---|
 |[V_gantsTravailNoir](notes/equipements/vetements/V_gantsTravailNoir.md)||
 [MagasinVetementsRuche](notes/zones/MagasinVetementsRuche.md)
-
+ 
 
 [[notes/utilisateurs/fournisseurs/prodega]]
 

@@ -27,6 +27,9 @@ ExpertisesVisitesOCV: 031019
 ## Afaire:
 
 ## Historique:
+
+260722 [garageEmeraude](garageEmeraude.md) changement cosses batterie réparation lève vitre passager et contrôle [EV_Pneus](notes/equipements/vehicules/EV_Pneus.md) ar ext gauche 
+
 130122 déposé à [grunderco](notes/utilisateurs/fournisseurs/grunderco.md) car la ridelle reste bloquée en position haute.
 
 291221 [grunderco](notes/utilisateurs/fournisseurs/grunderco.md) durite eau sur vanne egr commande d'embrayage.

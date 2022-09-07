@@ -20,7 +20,7 @@ Pneu arrière droit int: 195/65R16C Barum Snovanis 2\
 Pneu arrière gauche int: 195/65R16C Barum Snovanis 2\
 Pneu arrière gauche ext: 195/65R16C Barum Snovanis 2\
 Pneu avant gauche: 195/65R16C Toyo H09\
-Pneu secours: 195/65R16C Toyo H09 (palettes pneus)\
+Pneu secours: 195/65R16C Barum Snovanis 2 (palettes pneus)\
 ExpertisesVisitesOCV: 230621 120917 290113
 
 ##  Afaire: 
@@ -28,6 +28,11 @@ Contrôle plaquettes\
 Disques de freins et changer si besoin [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
+
+190822 [C_AmpouleH7](notes/equipements/consommables/C_AmpouleH7.md) droit changé et remis fil [EV_Telecommandes](notes/equipements/vehicules/EV_Telecommandes.md) gm
+
+160822 [EV_Pneus](notes/equipements/vehicules/EV_Pneus.md) av ddroit1.6bar et ar droit int 1.85bar regonflés
+
 110221 [[EV_Pneus]] av droit
 
 021221 [EV_AjoutMateriel](notes/equipements/vehicules/EV_AjoutMateriel.md) [C_CahiersVehicules](notes/equipements/consommables/C_CahiersVehicules.md)
