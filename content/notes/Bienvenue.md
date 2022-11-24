@@ -1,5 +1,5 @@
 ---
-title: "Bienvenue sur notre Wiki-CB"
+title: "Bienvenue"
 ---
 
 ## Pour exécuter la recherche du poste souhaité
