@@ -10,7 +10,7 @@ title: "fs_cantine"
 
 <div align="right">
 
-| Année |...........|Mois|......................|![Qr_Cantine](//notes/pieces_jointes/images/i_codeBarres/i_codeQR/Qr_Cantine.jpg)|
+| Année |...........|Mois|......................|![Qr_Bienvenue](notes/images/i_codeBarres/i_codeQR/Qr_Bienvenue.jpg)|
 |---|---|---|---|---|
 
 </div>

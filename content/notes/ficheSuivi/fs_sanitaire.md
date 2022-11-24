@@ -10,7 +10,7 @@ title: "fs_sanitaire"
 
 <div align="right">
 
-| Année |...........|Mois|......................|![Qr_Sanitaires](/notes/images/i_codeBarres/i_codeQR/Qr_Sanitaires.jpg)|
+| Année |...........|Mois|......................|![Qr_Bienvenue](notes/images/i_codeBarres/i_codeQR/Qr_Bienvenue.jpg)|
 |---|---|---|---|---|
 
 </div>

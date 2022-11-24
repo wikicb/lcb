@@ -10,7 +10,7 @@ title: "fs_poulailler"
 
 <div align="right">
 
-| Année |...........|Mois|......................|![Qr_PoulaillerRuche](notes/images/i_codeBarres/i_codeQR/Qr_PoulaillerRuche.jpg)|
+| Année |...........|Mois|......................|![Qr_Bienvenue](notes/images/i_codeBarres/i_codeQR/Qr_Bienvenue.jpg)|
 |---|---|---|---|---|
 
 </div>

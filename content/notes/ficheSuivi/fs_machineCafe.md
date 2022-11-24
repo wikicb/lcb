@@ -11,7 +11,7 @@ title: "fs_machineCafe"
 
 <div align="right">
 
-| Année |...........|Mois|......................|![Qr_MachineCafeCantine](notes/images/i_codeBarres/i_codeQR/Qr_MachineCafeCantine.jpg)|
+| Année |...........|Mois|......................|![Qr_Bienvenue](notes/images/i_codeBarres/i_codeQR/Qr_Bienvenue.jpg)|
 |---|---|---|---|---|
 
 </div>

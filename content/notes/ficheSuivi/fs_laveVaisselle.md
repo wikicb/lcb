@@ -11,7 +11,7 @@ title: "fs_laveVaisselle"
 
 <div align="right">
 
-| Année |...........|Mois|......................|![Qr_LaveVaisselleSmegCantine](notes/images/i_codeBarres/i_codeQR/Qr_LaveVaisselleSmegCantine.jpg)|
+| Année |...........|Mois|......................|![Qr_Bienvenue](notes/images/i_codeBarres/i_codeQR/Qr_Bienvenue.jpg)|
 |---|---|---|---|---|
 
 </div>

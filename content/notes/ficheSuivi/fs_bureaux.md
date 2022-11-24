@@ -11,8 +11,8 @@ title: "fs_bureaux"
 
 <div align="right">
 
-| Année |...........|![Qr_Bureaux](notes/images/i_codeBarres/i_codeQR/Qr_Bureaux.jpg)|
-|---|---|---|
+| Année |...........|Mois|......................|![Qr_Bienvenue](notes/images/i_codeBarres/i_codeQR/Qr_Bienvenue.jpg)|
+|---|---|---|---|---|
 
 </div>
 
