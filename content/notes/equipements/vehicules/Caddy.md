@@ -24,6 +24,6 @@ ExpertisesVisitesOCV: 130218
 
 ## Historique:
 
-050422 changement pneus [[Pneus Egger]] 
+050422 changement pneus [[notes/Pneus Egger]] 
 
 130220 [amag](notes/utilisateurs/fournisseurs/amag.md) service garage

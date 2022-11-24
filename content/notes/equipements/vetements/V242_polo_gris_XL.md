@@ -2,4 +2,4 @@
 title: "V242_polo_gris_XL"
 ---
 
-[L_Vetements](notes/equipements/L_Vetements.md) [V_PolosGris](notes/equipements/vetements/V_PolosGris.md) [julianArnal](julianArnal.md)
+[L_Vetements](notes/equipements/L_Vetements.md) [V_PolosGris](notes/equipements/vetements/V_PolosGris.md) [julianArnal](notes/julianArnal.md)

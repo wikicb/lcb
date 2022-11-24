@@ -31,7 +31,7 @@ ExpertisesVisitesOCV: 190117 150914 090312 101109 150906
 
 040822 [EV_Telecommandes](notes/equipements/vehicules/EV_Telecommandes.md) recablee [ndulaNlandu](notes/utilisateurs/beneficiaires/ndulaNlandu.md)
 
-210622 [garageEmeraude](garageEmeraude.md) points de rouille carrosserie frein à main, appeller garage pour plus d'informations ou GC
+210622 [garageEmeraude](notes/garageEmeraude.md) points de rouille carrosserie frein à main, appeller garage pour plus d'informations ou GC
 
 171221 [grunderco](notes/utilisateurs/fournisseurs/grunderco.md) ils ont installé un coupe circuit pour pas que la Rodelle puise l'energie de la batterie à l'arrêt.
 

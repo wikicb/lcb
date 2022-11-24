@@ -28,7 +28,7 @@ ExpertisesVisitesOCV: 031019
 
 ## Historique:
 
-260722 [garageEmeraude](garageEmeraude.md) changement cosses batterie réparation lève vitre passager et contrôle [EV_Pneus](notes/equipements/vehicules/EV_Pneus.md) ar ext gauche 
+260722 [garageEmeraude](notes/garageEmeraude.md) changement cosses batterie réparation lève vitre passager et contrôle [EV_Pneus](notes/equipements/vehicules/EV_Pneus.md) ar ext gauche 
 
 130122 déposé à [grunderco](notes/utilisateurs/fournisseurs/grunderco.md) car la ridelle reste bloquée en position haute.
 
