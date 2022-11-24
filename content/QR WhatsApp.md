@@ -1,0 +1,2 @@
+Créer un lien pour le profil d'entreprise
+Si vous utilisez l'application WhatsApp Business, vous n'avez pas à créer le lien comme indiqué ci-dessus manuellement. Heureusement, l'application est livrée avec l'option Lien court, parmi d'autres fonctionnalités, qui génère un lien automatiquement. Tout ce que vous avez à faire est de le copier. Pour afficher le lien court, accédez à Paramètres WhatsApp> Paramètres commerciaux> Lien court.

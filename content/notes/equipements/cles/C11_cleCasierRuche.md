@@ -2,7 +2,8 @@
 title: "C11_cleCasierRuche"
 ---
 
-[Clés](notes/equipements/cles/C_Clés.md) [Casiers Ruche](notes/equipements/consommables/C_CasierRuche.md) 110722 [davidEusebio](davidEusebio.md)\
+[Clés](notes/equipements/cles/C_Clés.md) [Casiers Ruche](notes/equipements/consommables/C_CasierRuche.md) [SLD](SLD.md) [rasolyEbadullah](rasolyEbadullah.md)\
+110722 davidEusebio\
 lehna\
 sachaGascaen\
 ahmedCosoble\

@@ -29,6 +29,8 @@ Pour lire le [manuel](https://drive.google.com/file/d/1Je_wGZVlBH8JlBZxbfICmbHcC
 2. [Détergent industriel](/notes/equipements/consommables/C_DetergentLaveVaisselleIndustriel.md)
 3. [Sel](/notes/equipements/consommables/C_SelLaveVaisselle.md)
 ## Historique:
+260922 gros sel et liquide rinçage et nettoyage
+
 
 160822 gros sel
 
