@@ -4,7 +4,7 @@ title: "Ferme 15"
 
 # Photos et inventaire - Ferme 15
 Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nous aide à progresser:)\
-*Photos du 17 juin 2022 à l'exception Photo cuisine sous evier.
+*Photos du 2 décembre 2022 à l'exception Photo du hall dêntrée.*
 ## Hall d'entrée
 ![i_ferme15-1](/notes/images/i_nettoyage/i_tremplin/i_ferme15/i_ferme15-1.jpg)
 
@@ -162,7 +162,20 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] Papier WC
 - [ ] Brosse WC
 ## Historique:
+121222
+- Achat draps 160x200cm, 2x coussins 55cm et housse duvet 180x200cm remis en main propre
+
+021222
+- Dépoussiérage et détartrage
+- Nettoyage des petites traces sur différents murs blanc avec éponge magiques 
+- Nettoyage du four
+- Nettoyage mur cuisine table
+- Réparation du meuble à chaussures
+- Changement de la pile de l'horloge
+- Reapprovisionnement, papier ménage et WC
+
 170622
 - Grand dépoussiérage compris barré ext et stores
 - Nettoyage des petites traces sur différents murs blanc avec éponge magiques 
+- Resseré les vis des chaises
 - Nettoyage vitres extérieures
