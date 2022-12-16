@@ -4,7 +4,7 @@ title: "Ferme 13"
 
 # Photos et inventaire - Ferme 13
 Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nous aide à progresser:)\
-*Photos du 21 février 2022 et 18 mars 2022*
+*Photos du 12 décembre 2022*
 ## Hall d'entrée
 ![i_ferme13-1](/notes/images/i_nettoyage/i_tremplin/i_ferme13/i_ferme13-1.jpg)
 ## ENTRÉE - ARMOIRE
@@ -139,7 +139,16 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] Produit WC
 - [ ] Brosse WC
 ## Historique:
- 
+121222
+- Dépoussierage et nettoyage habituel
+- Achat drap housse, housse duvet et couette
+- Changement sac apirateur
+- Reapprovisionnement papier WC et ménage
+- Détartrage
+- Nettoyage toutes la vaisselle, services et casseroles
+- Rajout verre
+- Resseré vis chaise
+
 180322 14h30 dépoussiérage suite aux transformations au balcon. Miroirs et vitres ext. Repris quelques tâches ponctuelles. Salle d'eau nettoyée et salon aspirer de haut en bas. Remise en place du mobilier et balayage humide.
 
 210222:

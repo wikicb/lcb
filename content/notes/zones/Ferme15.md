@@ -163,7 +163,7 @@ Merci de faire une photo si vous constatez que quelque chose ne va pas. Cela nou
 - [ ] Brosse WC
 ## Historique:
 121222
-- Achat draps 160x200cm, 2x coussins 55cm et housse duvet 180x200cm remis en main propre
+- Achat draps 160x200cm, 2x coussins 55cm et housse duvet 180x200cm remis au logement
 
 021222
 - Dépoussiérage et détartrage
