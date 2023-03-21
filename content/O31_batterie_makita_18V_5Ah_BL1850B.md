@@ -1,0 +1,1 @@
+[L_Outils](notes/equipements/outils/L_Outils.md) [C_BatteriesMakita](notes/equipements/consommables/C_BatteriesMakita.md) [D_GardeMeubles](notes/departements/D_GardeMeubles.md) 

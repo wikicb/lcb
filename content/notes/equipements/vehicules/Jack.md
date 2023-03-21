@@ -28,6 +28,7 @@ Contrôle plaquettes\
 Disques de freins et changer si besoin [Afaire](notes/statut/Afaire.md)
 
 ## Historique:
+090123 [pneusClaude](notes/equipements/vehicules/pneusClaude.md) changement roues av à l'arrière et 2 roues ar à l'avant plus 2 snovanis 3 changé à l'arrière pour changer pneus cassé et équilibrer l'essieu ar.
 
 190822 [C_AmpouleH7](notes/equipements/consommables/C_AmpouleH7.md) droit changé et remis fil [EV_Telecommandes](notes/equipements/vehicules/EV_Telecommandes.md) gm
 
