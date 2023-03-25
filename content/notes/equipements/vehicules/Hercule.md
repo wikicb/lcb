@@ -9,6 +9,9 @@ title: "Hercule"
 |1.2 Toujours embrayer avant d'actionner la poignée rouge pour l'hydrolique.|![](notes/images/i_utilisation/i_herculeBenneBasculante/I_herculeBenneBasculante1-2_2-1_2-7_3-1_3-7_4-1_4-8.jpg)|
 |1.3 Pour les distance de plus de 5m désactiver l'hydrolique en baissant la poignée|![](notes/images/i_utilisation/i_herculeBenneBasculante/I_herculeBenneBasculante1-3_2-8_3-8_4-9.jpg)|
 |1.4 Pour être sûr que l'hydrolique n'est plus actionné, vous pouvez faire un test avec la télécommande.|![](notes/images/i_utilisation/i_herculeBenneBasculante/I_herculeBenneBasculante1-4.jpg)|
+
+<div style="page-break-after: always;"></div>
+
 ## Vider la benne au centre de tri
 | Marche à suivre | Photo |
 |---|---|
@@ -20,6 +23,9 @@ title: "Hercule"
 |2.6 Baissez la benne avec en montant le bouton 1|![](notes/images/i_utilisation/i_herculeBenneBasculante/I_herculeBenneBasculante2-6.jpg)|
 |2.7 Puis embrayez|![](notes/images/i_utilisation/i_herculeBenneBasculante/I_herculeBenneBasculante1-2_2-1_2-7_3-1_3-7_4-1_4-8.jpg)|
 |2.8 Et desactivez l'hydrolique en poussant la poignée rouge|![](notes/images/i_utilisation/i_herculeBenneBasculante/I_herculeBenneBasculante1-3_2-8_3-8_4-9.jpg)|
+
+<div style="page-break-after: always;"></div>
+
 ## Poser la benne au sol
 | Marche à suivre | Photo |
 |---|---|
@@ -32,6 +38,9 @@ title: "Hercule"
 |3.6.2 Faire l'inverse pour remettre le crochet de benne en position securisée.||
 |3.7 Puis embrayez|![](notes/images/i_utilisation/i_herculeBenneBasculante/I_herculeBenneBasculante1-2_2-1_2-7_3-1_3-7_4-1_4-8.jpg)|
 |3.8 Et desactivez l'hydrolique en poussant la poignée rouge|![](notes/images/i_utilisation/i_herculeBenneBasculante/I_herculeBenneBasculante1-3_2-8_3-8_4-9.jpg)|
+
+<div style="page-break-after: always;"></div>
+
 ## Charger la benne sur le camion
 | Marche à suivre | Photo |
 |---|---|
@@ -44,6 +53,9 @@ title: "Hercule"
 |4.7 4. Important pour terminer verrouiller les crochets de verrouillage de la benne en maintenant vers le haut.|![](notes/images/i_utilisation/i_herculeBenneBasculante/I_herculeBenneBasculante4-7.jpg)|
 |4.8 Pour désactiver les commandes hydrauliques il faut embrayer puis pousser le levier rouge images suivantes.|![](notes/images/i_utilisation/i_herculeBenneBasculante/I_herculeBenneBasculante1-2_2-1_2-7_3-1_3-7_4-1_4-8.jpg)|
 |4.9 Une fois poussé lâcher lentement l'embrayage. Si le commandes hydrauliques ne fonctionne pas recommencer.|![](notes/images/i_utilisation/i_herculeBenneBasculante/I_herculeBenneBasculante1-3_2-8_3-8_4-9.jpg)|
+
+<div style="page-break-after: always;"></div>
+
 ## Infos:
 [D_EntretienVehicules](/notes/departements/D_EntretienVehicules.md) [Camions benne](/notes/equipements/vehicules/C_CamionsBenne.md)\
 Infos: Mitsubishi Canter 2.8 TDI\
